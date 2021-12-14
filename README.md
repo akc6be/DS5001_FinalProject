@@ -1,6 +1,6 @@
 # DS5001 FinalProject #
-## Amber Curran ##
-## akc6be ##
+## Amber Curran 
+## akc6be 
 
 In this project, it was my goal to look at the top 5 novels downloaded off of Project Gutenberg within the last 30 days to analyze any resemblance or difference in text structure, wording, or sentiment. These novels included in order: Frankenstein, A Christmas Carol, Pride and Prejudice, The Scarlett Letter, and Alice’s Adventures in Wonderland. These novels are known as classics in English literature, and therefore I wanted to explore their wording to understand perhaps why they are considered classics.
 
